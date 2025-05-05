@@ -14,3 +14,13 @@
 /videos/:id/edit -> Edit Video  
 /videos/:id/delete -> Delete Video  
 /videos/upload -> Upload Video  
+
+### FrontEnd
+- `HTML5`
+- `CSS3`
+- `Pug`
+
+### BackEnd
+- `NodeJS`
+- `MongoDB`
+- `Express`
